@@ -1,0 +1,7 @@
+int x;
+float y;
+x = 5 / 1;
+y = 5 / 1.0;
+write x;
+write y;
+write 2354 * 3.425;
